@@ -23,8 +23,7 @@
 
 <div align="center">
   <b>Red Team × DFIR × AI Security</b> · Creator of
-  <a href="https://github.com/zewolkt3939/AI-Powered-Malware-Analysis-Platform">Cerebrus</a>,
-  <a href="https://github.com/zewolkt3939/firewall-manager">firewall-manager</a> &amp;
+  <a href="https://github.com/zewolkt3939/AI-Powered-Malware-Analysis-Platform">MalWatch</a> &amp;
   <a href="https://github.com/zewolkt3939/-AI-Powered-Alert-Prioritization-for-Wazuh-">AI-APW</a>
   <br/><br/>
   Offensive tooling meets applied AI &amp; digital forensics — web exploitation,
