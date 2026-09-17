@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/zewolkt3939/AI-Powered-Malware-Analysis-Platform">Cerebrus</a></h3>
+      <h3><a href="https://github.com/zewolkt3939/AI-Powered-Malware-Analysis-Platform">MalWatch</a></h3>
       <p>Multi-tiered <b>static PE triage</b> — extracts 77 binary features with Random Forest, SHAP explainability, and VirusTotal lookup.</p>
       <code>AI · Malware Analysis · SHAP · scikit-learn</code>
     </td>
