@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Matrix Digital Rain Banner GIF -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Matrix_Digital_rain_banner.gif" width="100%" alt="Matrix Digital Rain Banner" />
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  [●] SYSTEM STATUS: ACTIVE  |  NODE: NGUYEN TRUONG BAO       │
